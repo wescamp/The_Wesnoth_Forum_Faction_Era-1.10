@@ -1,0 +1,59 @@
+Art
+
+-SynErr
+-zookeeper
+-Zerovirus
+-inferno8
+-Stern
+-Alarantalara
+-artisticdude
+-PsychoticKittens
+-Captain_Wrathbow
+-TheBladeRoden
+-Doofus01
+-someone
+-tapik
+-Various Mainline Artists
+
+Coding
+
+-Captain_Wrathbow
+-artisticdude
+-elvish_sovereign
+
+Balancing
+
+-artisticdude
+-elvish_sovereign
+
+
+If I have accidentally forgotten to credit you, contact me on the Wesnoth forums and I will add you to the credits.
+
+
+Special Thanks:
+
+
+-Captain_Wrathbow
+
+Unit coding, art
+
+
+-artisticdude
+
+Unit coding, general management, balancing, art
+
+
+-elvish_sovereign
+
+Balancing, SVN setup, SVN management
+
+
+-Deusite
+
+Visual representation of the final advancement tree chart
+
+-Everyone who helped with balancing
+
+
+
+			--Thanks guys. =) --

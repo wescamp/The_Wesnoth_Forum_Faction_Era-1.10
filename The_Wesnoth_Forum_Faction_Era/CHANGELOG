@@ -1,0 +1,73 @@
+The Wesnoth Forum Faction Era Changelog
+
+Current maintainers: artisticdude, Captain_Wrathbow, elvish_sovereign
+Current Wesnoth version(s) supported: 1.8.x, 1.9.4+
+-----
+
+1.0.2
+> Text:
+	> Added a description for tapik by tapik
+> Units:
+	> Fixed bug with Stern's race
+	> Fixed some balance issues:
+		> Decreased Golbeeze's melee attack from 10-2 to 9-2
+		> Decreased Golbeeze's ranged attack from 5-3 to 6-2
+		> Decreased PsychoticKittens's melee attack from 13-2 to 12-2
+		> Decreased PsychoticKittens's ranged attack from 8-3 to 10-2
+		> Decreased Araja's hitpoints from 46 to 39
+		> Decreased Deusite's hitpoints from 63 to 51
+		> Added ParadiseCity, sur_nhm, and Sapient as possible leaders, but kept them from the random list.
+> Misc:
+	> Added support for 1.8.x
+	> Removed support for 1.9.0 - 1.9.3
+
+1.0.1
+> Graphics:
+    > Fixed bug where ParadiseCity's sprite did not show
+    > Fixed bug where Hulavuta's melee attack did not work
+    > Fixed bug with Golbeeze's ranged attack icon
+    > Fixed bug with Golbeeze's south attack
+> Units:
+    > Fixed issue with TheBladeRoden's alignment
+    > Fixed many balance issues, mostly dealing with the WML line:
+        > Removed teleport from the IPS
+        > Decreased IPS's ranged attack from 5-4 to 6-3
+        > Decreased IPS's hitpoints from 24 to 22
+        > Increased IPS's cost from 20 to 21
+        > Changed the range of the Araja's and Deusite's engulf attack from melee to WML
+        > Decreased Sapient's WML attack from 8-4 to 8-3
+        > Decreased Sapient's hitpoints from 37 to 34
+        > Decreased zookeeper's WML attack from 11-4 to 11-3
+        > Decreased zookeeper's hitpoints from 54 to 48
+        > Added a new WML attack for Sapient and zookeeper: a 0-1 attack that, when it hits the unit, they can modify it slightly (only have -1 for melee, ranged, and movement now)
+
+
+1.0.0
+> Eras:
+    > Added a TWFF+Default era
+> Graphics:
+    > Fixed bugs with Golbeeze, Alarantalara, and Deusite's sprites. Stilling missing ParadiseCity's sprite for some reason.
+> Units:
+    > Fixed some balance issues:
+        > Increased Alarantalara's hp to 42
+        > Increased PeterPorty's hp to 63
+        > Increased Lightfighter's melee attack from 9-2 to 7-3
+        > Decreased tapik's melee attack from 19-2 to 17-2
+        > Changed boru's ranged attack from 24-1 to 12-2
+        > Removed an alternate attack for inferno8: "flames"
+    > Fixed bug where Aura's unit file had a buggy comment
+    > Fixed bug where ParadiseCity was level 0
+    > Fixed bug where wesfreak's melee attack was ranged
+    > Fixed bug where Pentarctagon did not advnace to boru
+    > Fixed bugs with zookeeper's unit
+    > Made so the necromancer mage branch is undead
+> Misc:
+    > Added Changelog
+> Various little bug fixes not worth mentioning
+
+
+pre-1.0 beta
+> First release!
+
+
+

@@ -1,0 +1,787 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2011-02-21 15:37+0100\n"
+"PO-Revision-Date: 2011-02-21 15:37+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca_ES@valencia\n"
+
+#. [language]
+#: The_Wesnoth_Forum_Faction_Era/_main.cfg:19
+#: The_Wesnoth_Forum_Faction_Era/_main.cfg:20
+msgid "WML"
+msgstr ""
+
+#. [era]: id=The_Wesnoth_Forum_Faction_Era_default
+#. [multiplayer_side]: id=The_Wesnoth_Forum_Faction, type=artisticdude
+#: The_Wesnoth_Forum_Faction_Era/eras/_main.cfg:10
+#: The_Wesnoth_Forum_Faction_Era/eras/default/The_Wesnoth_Forum_Faction.cfg:8
+msgid "The Wesnoth Forum Faction"
+msgstr ""
+
+#. [era]: id=The_Wesnoth_Forum_Faction_Era_plus_mainline
+#: The_Wesnoth_Forum_Faction_Era/eras/_main.cfg:21
+msgid "The Wesnoth Forum Faction + Default"
+msgstr ""
+
+#. [race]: id=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/_main.cfg:8
+#: The_Wesnoth_Forum_Faction_Era/units/_main.cfg:10
+msgid "race^The Wesnoth Forums"
+msgstr ""
+
+#. [race]: id=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/_main.cfg:13
+msgid ""
+"In the Wesnoth Forums are found many people from all across the globe. Each "
+"has different talents and weaknesses. Some will charge straight into combat "
+"and hack away at the problem until either it is solved or they are unable to "
+"continue, while others prefer to observe from a distant, darting in to "
+"strike a telling blow when the time is right.\n"
+"\n"
+"Some might consider this motley band no threat at all, but they are badly "
+"mistaken, as they find out to their detriment. The wide variety of talents "
+"found across the forums is brought together into a power that none can "
+"withstand for long."
+msgstr ""
+
+#. [unit_type]: race=undead, id=ParadiseCity
+#: The_Wesnoth_Forum_Faction_Era/units/mages/ParadiseCity.cfg:7
+msgid "ParadiseCity"
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Wesnoth_Forum_Faction_Era/units/mages/ParadiseCity.cfg:22
+msgid "seep"
+msgstr ""
+
+#. [attack]: type=cold
+#: The_Wesnoth_Forum_Faction_Era/units/mages/ParadiseCity.cfg:35
+msgid "cold storm"
+msgstr ""
+
+#. [unit_type]: id=Qazerowl, race=undead
+#: The_Wesnoth_Forum_Faction_Era/units/mages/Qazerowl.cfg:5
+msgid "Qazerowl"
+msgstr ""
+
+#. [unit_type]: id=Qazerowl, race=undead
+#: The_Wesnoth_Forum_Faction_Era/units/mages/Qazerowl.cfg:24
+msgid "Insert description here..."
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Wesnoth_Forum_Faction_Era/units/mages/Qazerowl.cfg:41
+msgid "touch"
+msgstr ""
+
+#. [attack]: type=cold
+#: The_Wesnoth_Forum_Faction_Era/units/mages/Qazerowl.cfg:54
+msgid "chill tempest"
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Wesnoth_Forum_Faction_Era/units/mages/wesfreak.cfg:67
+#: The_Wesnoth_Forum_Faction_Era/units/mages/Qazerowl.cfg:66
+msgid "shadow wave"
+msgstr ""
+
+#. [unit_type]: id=inferno8, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/mages/inferno8.cfg:5
+msgid "inferno8"
+msgstr ""
+
+#. [unit_type]: id=inferno8, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/mages/inferno8.cfg:21
+msgid ""
+"Inferno8s are very mysterious beings. Their bodies are made of pure fire, "
+"making them hard to kill. It is said that Inferno8s are the leaders of the "
+"Cult of Fire: a forgotten religion which unites all creatures known for "
+"their fire magicks, like the Sur.nhms.\n"
+"\n"
+"Although people treat inferno8s like personifications of destruction, it's "
+"worth mentioning that according to legends, the first Inferno8 was a great "
+"(and modest) artist, WML coder and writer. His power and motivation allowed "
+"him to create an entire era called the Era of Magic."
+msgstr ""
+
+#. [attack]: type=fire
+#: The_Wesnoth_Forum_Faction_Era/units/mages/inferno8.cfg:186
+msgid "burning fist"
+msgstr ""
+
+#. [attack]: type=fire
+#: The_Wesnoth_Forum_Faction_Era/units/mages/inferno8.cfg:195
+#: The_Wesnoth_Forum_Faction_Era/units/mages/sur_nhm.cfg:37
+msgid "fireball"
+msgstr ""
+
+#. [attack]: type=fire
+#: The_Wesnoth_Forum_Faction_Era/units/mages/inferno8.cfg:206
+msgid "inferno"
+msgstr ""
+
+#. [unit_type]: id=maramros, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/mages/maramros.cfg:5
+msgid "maramros"
+msgstr ""
+
+#. [unit_type]: id=maramros, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/mages/maramros.cfg:20
+msgid ""
+"Maramroi (sing. Maramros) flit from place to place, easily distracted, "
+"perpetually requiring entertainment. They may become interested in a "
+"particular battle or event, and possibly even take material form and "
+"participate, but they tend to often disengage, moving away to watch from a "
+"distance after only a short while. Because of this, they have never learned "
+"great tactics, although they are always willing to try something new."
+msgstr ""
+
+#. [attack]: type=cold
+#: The_Wesnoth_Forum_Faction_Era/units/mages/maramros.cfg:78
+msgid "cold wave"
+msgstr ""
+
+#. [unit_type]: id=sur_nhm, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/mages/sur_nhm.cfg:5
+msgid "sur.nhm"
+msgstr ""
+
+#. [unit_type]: id=sur_nhm, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/mages/sur_nhm.cfg:21
+msgid ""
+"Sur.nhm's past is shrouded in darkness. He just appeared there one day and "
+"pledged his services to Inferno8. Ever since then he use his skills with "
+"Fire Magicks, knowledge of Shamanic Magic and his natural cunning at his "
+"master's whim."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Wesnoth_Forum_Faction_Era/units/mages/sur_nhm.cfg:28
+msgid "fist"
+msgstr ""
+
+#. [unit_type]: id=wesfreak, race=undead
+#: The_Wesnoth_Forum_Faction_Era/units/mages/wesfreak.cfg:8
+msgid "wesfreak"
+msgstr ""
+
+#. [unit_type]: id=wesfreak, race=undead
+#: The_Wesnoth_Forum_Faction_Era/units/mages/wesfreak.cfg:25
+msgid ""
+"A spirit that strives for balance that crossed over to this world by unknown "
+"means, wesfreak is a soul trapped under a dark adept's robe. Some say that "
+"the magic this spirit possesses comes from the robe it wears, others say "
+"that the spirit itself is magical. One philosopher once speculated that the "
+"soul is in fact a dead dark adept, that could not escape it's robe because "
+"of remnants of power from the adept's soul-binding spells. Wesfreak kills "
+"without remorse those who call him dirty laundry...\n"
+"\n"
+"In such condition, their only weapon is the craft they have so committed "
+"themselves to learning."
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Wesnoth_Forum_Faction_Era/units/mages/wesfreak.cfg:42
+msgid "life drain"
+msgstr ""
+
+#. [attack]: type=cold
+#: The_Wesnoth_Forum_Faction_Era/units/mages/wesfreak.cfg:55
+msgid "chill wave"
+msgstr ""
+
+#. [unit_type]: id=Aura, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/melee/Aura.cfg:5
+msgid "Aura"
+msgstr ""
+
+#. [unit_type]: id=Aura, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/melee/Aura.cfg:26
+msgid "Has a sword. Leads others into battle. Whoop."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/TheBladeRoden.cfg:25
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/Captain_Wrathbow.cfg:248
+#: The_Wesnoth_Forum_Faction_Era/units/melee/elvish_sovereign.cfg:38
+#: The_Wesnoth_Forum_Faction_Era/units/melee/Aura.cfg:34
+#: The_Wesnoth_Forum_Faction_Era/units/melee/artisticdude.cfg:25
+msgid "sword"
+msgstr ""
+
+#. [unit_type]: id=Dixie, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/melee/Dixie.cfg:5
+msgid "Dixie"
+msgstr ""
+
+#. [unit_type]: id=Dixie, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/melee/Dixie.cfg:21
+msgid ""
+"Although quite new on thar forums 'n' touchin' various fields of activity, "
+"Dixie ain't no scurvy lad, and although he might look stern 'n' all, avast "
+"'fore ye cross the line or ye'll be keelhauled 'fore ye know it. Sprogs, "
+"lilly-livered scallywags and squiffy ninjas, beware the black spot."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Wesnoth_Forum_Faction_Era/units/melee/Dixie.cfg:25
+msgid "sabre"
+msgstr ""
+
+#. [unit_type]: id=PeterPorty, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/melee/PeterPorty.cfg:5
+msgid "PeterPorty"
+msgstr ""
+
+#. [unit_type]: id=PeterPorty, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/melee/PeterPorty.cfg:20
+msgid ""
+"Pete has a horse, Pete has a sword, Pete is a troll, a fire-sword wielding "
+"horsetroll."
+msgstr ""
+
+#. [attack]: type=fire
+#: The_Wesnoth_Forum_Faction_Era/units/melee/PeterPorty.cfg:28
+msgid "fire sword"
+msgstr ""
+
+#. [unit_type]: id=Zerovirus, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/melee/Zerovirus.cfg:5
+msgid "Zerovirus"
+msgstr ""
+
+#. [unit_type]: id=Zerovirus, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/melee/Zerovirus.cfg:21
+msgid ""
+"Zerovirus spends most of his time in a cloistered tower that few are allowed "
+"access to, under which many hundreds of poor beggars beg for some morsel of "
+"his work every day (a boon which few receive). This tower, though located in "
+"tropical locales, is not at all overly hot, due to his incredible skill in "
+"the construction of various air conditioners, though he refers to them as "
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Wesnoth_Forum_Faction_Era/units/melee/Zerovirus.cfg:27
+msgid "greatsword"
+msgstr ""
+
+#. [unit_type]: id=artisticdude, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/melee/artisticdude.cfg:5
+msgid "artisticdude"
+msgstr ""
+
+#. [unit_type]: id=artisticdude, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/melee/artisticdude.cfg:19
+msgid ""
+"While not the best at what he does, artisticdude nevertheless strives to do "
+"his utmost in whatever task he undertakes. He is handy with a sword due to "
+"having fenced for several years, but he has yet to learn how to deflect "
+"missiles with his blade, and is thus more vulnerable to ranged attacks than "
+"he would prefer."
+msgstr ""
+
+#. [unit_type]: id=elvish_sovereign, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/melee/elvish_sovereign.cfg:5
+msgid "elvish_sovereign"
+msgstr ""
+
+#. [unit_type]: id=elvish_sovereign, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/melee/elvish_sovereign.cfg:31
+msgid ""
+"That elvish_sovereign's blade,\n"
+"Was made and used to persuade,\n"
+"That any orc crossing him,\n"
+"Would lose every possessed limb,\n"
+"That's intriguing, where was it made?\n"
+"-Frogger5"
+msgstr ""
+
+#. [unit_type]: id=Elvish_Hunter, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/mixed/Elvish_Hunter.cfg:5
+msgid "Elvish_Hunter"
+msgstr ""
+
+#. [unit_type]: id=Elvish_Hunter, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/mixed/Elvish_Hunter.cfg:21
+msgid ""
+"Elvish Hunters are somewhat atypical between other Elves. They do not carry "
+"a bow - some of them didn't even tried to use it, and instead use bolas. "
+"They, unlike other Elves, aren't afraid of caves - while still preferring "
+"forests, here they can defend better than on open plain. They also have a "
+"passion for high technonolgy, a feature that allows them to drive also "
+"Dwarvish Tanks, if needed (as long as there is one available, of course)."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Wesnoth_Forum_Faction_Era/units/mixed/Elvish_Hunter.cfg:27
+msgid "poisoned sword"
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Wesnoth_Forum_Faction_Era/units/mixed/Elvish_Hunter.cfg:39
+msgid "bolas"
+msgstr ""
+
+#. [unit_type]: id=Golbeeze, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/mixed/Golbeeze.cfg:8
+msgid "Golbeeze"
+msgstr ""
+
+#. [unit_type]: id=Golbeeze, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/mixed/Golbeeze.cfg:22
+msgid ""
+"Golbeeze keeps going and going, even when everyone else thinks he should "
+"probably stop. Even when no one seems interested in the crazy developments "
+"he is working on, Golbeeze continues until it is complete and then secretly "
+"enjoys the success all by himself. It was through this secrecy that he was "
+"able to create a steam-powered suit of armor to wreak vengeance upon those "
+"who would oppose him."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Wesnoth_Forum_Faction_Era/units/mixed/Golbeeze.cfg:43
+msgid "bash"
+msgstr ""
+
+#. [attack]: type=fire
+#: The_Wesnoth_Forum_Faction_Era/units/mixed/Golbeeze.cfg:52
+msgid "flames"
+msgstr ""
+
+#. [unit_type]: id=PsychoticKittens, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/mixed/PsychoticKittens.cfg:9
+msgid "PsychoticKittens"
+msgstr ""
+
+#. [unit_type]: id=PsychoticKittens, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/mixed/PsychoticKittens.cfg:26
+msgid ""
+"PsychoticKittens always attempts to forge ahead into new territories before "
+"thoroughly thinking his plans through. This often leads him right into "
+"sticky situations which force him to call upon reinforcements. After several "
+"of these unfortunate dilemmas, he got fed up with the entire process. "
+"Therefore, he invented a tank for himself to plow through whatever troubles "
+"lay in his path."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Wesnoth_Forum_Faction_Era/units/mixed/PsychoticKittens.cfg:36
+msgid "trample"
+msgstr ""
+
+#. [attack]: type=WML
+#. [attack]: type=fire
+#: The_Wesnoth_Forum_Faction_Era/units/wml/IPS.cfg:55
+#: The_Wesnoth_Forum_Faction_Era/units/mixed/PsychoticKittens.cfg:45
+msgid "missile"
+msgstr ""
+
+#. [unit_type]: id=tapik, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/mixed/tapik.cfg:5
+msgid "tapik"
+msgstr ""
+
+#. [unit_type]: id=tapik, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/mixed/tapik.cfg:20
+msgid ""
+"Tapik is a small puppy with a big and fairless heart. He has short fragile "
+"claws and a small chops with little teeth. His barking is soft. So he had to "
+"invent another way how to defend his garden. He is dexterous and fast and "
+"uncatchable and these advantages and a moment of surprise he uses in his "
+"attack. With a lovely smile and wagging his tail he runs quickly against a "
+"victim. An impact of his hard head is the last thing the surprised enemy "
+"could feel.\n"
+"His ideal is his uncle Fido, the famous flying dog."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Wesnoth_Forum_Faction_Era/units/mixed/tapik.cfg:25
+msgid "crush"
+msgstr ""
+
+#. [unit_type]: id=Captain_Wrathbow, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/Captain_Wrathbow.cfg:5
+msgid "Captain_Wrathbow"
+msgstr ""
+
+#. [unit_type]: id=Captain_Wrathbow, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/Captain_Wrathbow.cfg:20
+msgid ""
+"Captain Wrathbow started out as the commander of a merchant ship that "
+"traveled between Elensefar and Blackwater Port. But on one journey his ship "
+"was attacked and sunk by a pirate named Wolf. Wrathbow was taken captive. "
+"However he managed to escape when the ship entered a port by leaping "
+"overboard, swimming to the land, and fleeing into the woods. Eager for "
+"revenge on Wolf, Wrathbow joined the Royal Navy of Wesnoth and slowly worked "
+"his way up to the rank of captain. By this time, Wolf was notorious and well-"
+"known, and Wrathbow convinced his superiors to outfit him with his own ship "
+"and allow him to attempt to track down Wolf. This Wrathbow swiftly succeeded "
+"in, but unfortunately turned to piracy shortly after. He was captured by the "
+"Royal Navy and imprisoned. But within the grimy stone walls of Weldyn's "
+"prison, he met a necromancer who taught him all he knew about the dark arts. "
+"Being younger and less feeble than the old sorcerer, Wrathbow was very "
+"strong and capable in magic and soon put his new knowledge to use. He broke "
+"out of the prison and fled to the north. A group of soldiers was sent to "
+"pursue and finish him. They followed him into the mountains, set an ambush, "
+"and attacked. He fought valiantly, but was overcome and killed. The soldiers "
+"left and traveled back to Weldyn, oblivious to the lich following them. Just "
+"outside the city, Wrathbow came from behind and slew them, then foolishly "
+"charged into Weldyn itself, where he met his final end at the hands of the "
+"Royal Army. Thus is the tale of Captain Wrathbow."
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/Captain_Wrathbow.cfg:257
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/Lightfighter.cfg:34
+msgid "bow"
+msgstr ""
+
+#. [unit_type]: id=Lightfighter, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/Lightfighter.cfg:5
+msgid "Lightfighter"
+msgstr ""
+
+#. [unit_type]: id=Lightfighter, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/Lightfighter.cfg:20
+msgid ""
+"While improving only marginally on the power of their bow, the Slayer "
+"abandons the blade in favor of training with a glaive, improving his skills "
+"in hand-to-hand combat. He is not as rugged as others of comparable skill, "
+"but far deadlier."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/Lightfighter.cfg:26
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/boru.cfg:97
+msgid "glaive"
+msgstr ""
+
+#. [unit_type]: id=Pentarctagon, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/Pentarctagon.cfg:5
+msgid "Pentarctagon"
+msgstr ""
+
+#. [unit_type]: id=Pentarctagon, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/Pentarctagon.cfg:20
+msgid ""
+"While Pentarctagons are fairly skilled at their art, and they have more than "
+"enough time to practice it, their methods tend to be very straight-forward "
+"and often sacrifice efficiency for ease of execution. They have no strict "
+"code of honor and as a result are content to play the role of mercenary, "
+"often taking up the values of whoever is their current employer as a way to "
+"leave a more favorable impression. That said, they will answer any direct "
+"question honestly and bluntly, regardless of what the questioner wants or is "
+"expecting to hear."
+msgstr ""
+
+#. [unit_type]: id=TheBladeRoden, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/TheBladeRoden.cfg:5
+msgid "TheBladeRoden"
+msgstr ""
+
+#. [unit_type]: id=TheBladeRoden, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/TheBladeRoden.cfg:20
+msgid ""
+"TheBladeRodens tend to be victims of their own ambition, often taking on too "
+"much at once, whether it be weaponry or era development. A jack of all "
+"trades and master of none, or a man frought with indecision, the average "
+"TheBladeRoden will bring both a respectable sword and a hefty blunderbuss to "
+"battle. This over-emcumbrance will assure preparedness, but may render a "
+"TheBladeRoden too slow to see any fight at all."
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/TheBladeRoden.cfg:34
+msgid "pistol"
+msgstr ""
+
+#. [unit_type]: id=boru, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/boru.cfg:5
+msgid "boru"
+msgstr ""
+
+#. [unit_type]: id=boru, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/boru.cfg:21
+msgid ""
+"Boru finds it admirable that most of his compatriots did not stoop to use "
+"their character descriptions to shamelessly promote their own various and "
+"sundry Wesnothian enterprises, and he encourages you to download and play "
+"the Swamplings campaign add-on as soon as this game is won."
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/boru.cfg:106
+msgid "thunderstick"
+msgstr ""
+
+#. [unit_type]: id=Alarantalara, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/scouts/Alarantalara.cfg:5
+msgid "Alarantalara"
+msgstr ""
+
+#. [unit_type]: id=Alarantalara, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/scouts/Alarantalara.cfg:21
+msgid ""
+"Strangely for a creature of the forest, the Alarantalara spends most of its "
+"life underground. Whispering its name might open doors, but only if "
+"mispronounced."
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Wesnoth_Forum_Faction_Era/units/scouts/Alarantalara.cfg:31
+msgid "faerie touch"
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Wesnoth_Forum_Faction_Era/units/scouts/Alarantalara.cfg:40
+msgid "thorns"
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Wesnoth_Forum_Faction_Era/units/scouts/Alarantalara.cfg:52
+msgid "faerie fire"
+msgstr ""
+
+#. [unit_type]: id=Hulavuta, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/scouts/Hulavuta.cfg:4
+msgid "Hulavuta"
+msgstr ""
+
+#. [unit_type]: id=Hulavuta, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/scouts/Hulavuta.cfg:22
+msgid ""
+"Saurians are very small of frame, and though they are somewhat frail because "
+"of this, they are very, very agile. In combat, their size allows them to "
+"dart past defenses that would hold any grown man at bay, making them a "
+"tricky foe to deal with.\n"
+"\n"
+"Spears are their preferred weapon, as their powerful hind legs can drive a "
+"spear with enough force to do considerable damage, either in hand or thrown."
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Wesnoth_Forum_Faction_Era/units/scouts/Hulavuta.cfg:42
+#: The_Wesnoth_Forum_Faction_Era/units/scouts/Hulavuta.cfg:51
+#: The_Wesnoth_Forum_Faction_Era/units/scouts/Stern.cfg:37
+msgid "spear"
+msgstr ""
+
+#. [unit_type]: id=Stern, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/scouts/Stern.cfg:5
+msgid "Stern"
+msgstr ""
+
+#. [unit_type]: id=Stern, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/scouts/Stern.cfg:20
+msgid ""
+"Gremlin trackers have mastered the ability to conceal themselves and easily "
+"creep up behind large game. The element of surprise is the tracker's favored "
+"weapon as it stabs its prey in the back. The gremlin colony finds the "
+"tracker's talents useful for felling prey as large as a boar."
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Wesnoth_Forum_Faction_Era/units/scouts/Stern.cfg:28
+msgid "Pick"
+msgstr ""
+
+#. [unit_type]: id=Araja, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/wml/Araja.cfg:5
+msgid "Araja"
+msgstr ""
+
+#. [unit_type]: id=Araja, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/wml/Araja.cfg:21
+msgid ""
+"Arajas are incorporeal beings which roam the land of Irdya searching for "
+"entertainment. In their natural form they are nothing more than ghostly "
+"voices known to follow heroes or observe battles. When an Araja decides to "
+"fight it appears as a magical symbol, drifting across the ground like a "
+"patch of moonlight. When an enemy approaches, a column of energy rises from "
+"the circle and lashes out with deadly force. Arajas cannot be truly killed, "
+"merely returned to their ghostly state. As such, they have a carefree "
+"attitude and are known for chatting amiably or discussing the scenery while "
+"the enemy close in.\n"
+"\n"
+"Notes: This unit rarely stops talking."
+msgstr ""
+
+#. [attack]: type=WML
+#: The_Wesnoth_Forum_Faction_Era/units/wml/Araja.cfg:26
+#: The_Wesnoth_Forum_Faction_Era/units/wml/Deusite.cfg:27
+msgid "engulf"
+msgstr ""
+
+#. [unit_type]: id=Deusite, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/wml/Deusite.cfg:5
+msgid "Deusite"
+msgstr ""
+
+#. [unit_type]: id=Deusite, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/wml/Deusite.cfg:22
+msgid ""
+"Though arresting, the way of the Deusite is mysterious. They are much more "
+"prone to lurking, some would say stalking, than other creatures. Creatures "
+"to the Deusitia are most interesting when they committing lewd acts, so that "
+"it can then moan about it afterwards. Some say it returns to them after a "
+"thousand years, as the Deusite may only talk to dead people, others say it "
+"just bemoans the existence of semihemidemisemiquavers. But none can tell for "
+"the psychopathic screel it emits, and because anyone who says they know it "
+"is a liar, unless they've been killed to death. \n"
+"\n"
+"And never feed them tomatoes, or you shall be vomited into the deep serene."
+msgstr ""
+
+#. [attack]: type=cold
+#: The_Wesnoth_Forum_Faction_Era/units/wml/Deusite.cfg:36
+msgid "cold breath"
+msgstr ""
+
+#. [unit_type]: id=IPS, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/wml/IPS.cfg:5
+msgid "IPS"
+msgstr ""
+
+#. [unit_type]: id=IPS, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/wml/IPS.cfg:24
+msgid ""
+"SPECIAL_NOTE^ Silver Magi are well-attuned to their magical natures and are "
+"highly resistant to non-physical damage."
+msgstr ""
+
+#. [unit_type]: id=IPS, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/wml/IPS.cfg:24
+msgid ""
+"The many paths that a mage can take in study lead to strikingly different "
+"ends. Often viewed as sages, or wandering mystics, silver magi act under an "
+"agenda which is obscure even to their own colleagues. Though helpful to the "
+"magisteriums which often employ them in the field, they remain somewhat "
+"aloof.\n"
+"\n"
+"They have, in fact, their own order amongst the ranks of magi, an order "
+"which withholds certain secrets from their peers. One of these is an "
+"apparent ability to cross great distances, faster than one could possibly "
+"travel on foot. Members of the silver order ardently refuse to discuss the "
+"workings of this with any of their fellow magi, and on those rare occasions "
+"when others have pried into their work, they have abandoned the endeavor, "
+"never to speak of it again.\n"
+"\n"
+"Silver magi are often more physically adept than other magi, and their "
+"skills are of undeniable use on the battlefield, if one can manage to induce "
+"the mage to apply them."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Wesnoth_Forum_Faction_Era/units/wml/IPS.cfg:46
+msgid "bladestaff"
+msgstr ""
+
+#. [unit_type]: id=Sapient, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/wml/Sapient.cfg:5
+msgid "Sapient"
+msgstr ""
+
+#. [unit_type]: id=Sapient, race=The_Wesnoth_Forum
+#: The_Wesnoth_Forum_Faction_Era/units/wml/Sapient.cfg:28
+msgid ""
+"While some wizards have achieved great magical powers through their mastery "
+"of the arcane secrets, others are also able to alter the source of the "
+"universe itself to give themselves even unnatural powers, becoming masters "
+"at weapons they never even trained to use. All of this great learning, "
+"however, means that lesser wizards are constantly trying to slay them in an "
+"unguarded moment to gain their powers. For this reason, Sapients are very "
+"evasive and reclusive, and sometimes referred to as "
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Wesnoth_Forum_Faction_Era/units/wml/Sapient.cfg:37
+msgid "dagger"
+msgstr ""
+
+#. [attack]: type=WML
+#: The_Wesnoth_Forum_Faction_Era/units/wml/Sapient.cfg:49
+msgid "WML blast"
+msgstr ""
+
+#. [attack]: type=WML
+#: The_Wesnoth_Forum_Faction_Era/units/wml/Sapient.cfg:61
+#: The_Wesnoth_Forum_Faction_Era/units/wml/zookeeper.cfg:87
+msgid "minor unit modifcation"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Wesnoth_Forum_Faction_Era/units/wml/Sapient.cfg:173
+msgid ""
+"You, brave Sapient, call upon the divine powers of WML! Choose what you "
+"would like to do:"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: The_Wesnoth_Forum_Faction_Era/units/wml/Sapient.cfg:175
+#: The_Wesnoth_Forum_Faction_Era/units/wml/zookeeper.cfg:544
+msgid "Decrease his melee attacks by 1!"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: The_Wesnoth_Forum_Faction_Era/units/wml/Sapient.cfg:191
+#: The_Wesnoth_Forum_Faction_Era/units/wml/zookeeper.cfg:560
+msgid "Decrease his ranged attacks by 1!"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: The_Wesnoth_Forum_Faction_Era/units/wml/Sapient.cfg:207
+#: The_Wesnoth_Forum_Faction_Era/units/wml/zookeeper.cfg:576
+msgid "Decrease his movement points by 1!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Wesnoth_Forum_Faction_Era/units/wml/Sapient.cfg:224
+msgid ""
+"A Sapient from Side $unit.side has called upon the divine powers of WML and "
+"modified a $second_unit.type on Side $second_unit.side"
+msgstr ""
+
+#. [unit_type]: id=zookeeper, race=The_Wesnoth_Forum, type=zookeeper
+#: The_Wesnoth_Forum_Faction_Era/units/wml/zookeeper.cfg:5
+msgid "zookeeper"
+msgstr ""
+
+#. [unit_type]: id=zookeeper, race=The_Wesnoth_Forum, type=zookeeper
+#: The_Wesnoth_Forum_Faction_Era/units/wml/zookeeper.cfg:45
+msgid "Insert description here"
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Wesnoth_Forum_Faction_Era/units/wml/zookeeper.cfg:54
+msgid "magic sword"
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Wesnoth_Forum_Faction_Era/units/wml/zookeeper.cfg:66
+msgid "book bash"
+msgstr ""
+
+#. [attack]: type=WML
+#: The_Wesnoth_Forum_Faction_Era/units/wml/zookeeper.cfg:75
+msgid "WML lightstorm"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Wesnoth_Forum_Faction_Era/units/wml/zookeeper.cfg:542
+msgid ""
+"You, brave zookeeper, call upon the divine powers of WML! Choose what you "
+"would like to do:"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Wesnoth_Forum_Faction_Era/units/wml/zookeeper.cfg:593
+msgid ""
+"A zookeeper from Side $unit.side has called upon the divine powers of WML "
+"and modified a $second_unit.type on Side $second_unit.side"
+msgstr ""

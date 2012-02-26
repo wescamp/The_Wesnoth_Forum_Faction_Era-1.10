@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-02-21 15:37+0100\n"
+"POT-Creation-Date: 2012-02-26 17:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,7 +32,7 @@ msgid "race^The Wesnoth Forums"
 msgstr ""
 
 #. [race]: id=The_Wesnoth_Forum
-#: ./The_Wesnoth_Forum_Faction_Era/units/_main.cfg:13
+#: ./The_Wesnoth_Forum_Faction_Era/units/_main.cfg:11
 msgid ""
 "In the Wesnoth Forums are found many people from all across the globe. Each has different talents and weaknesses. Some will charge straight into combat and hack away at the problem until either it is solved or they are unable to continue, while others prefer to observe from a distant, darting in to strike a telling blow when the time is right.\n"
 "\n"
@@ -85,7 +85,7 @@ msgid "inferno8"
 msgstr ""
 
 #. [unit_type]: id=inferno8, race=The_Wesnoth_Forum
-#: ./The_Wesnoth_Forum_Faction_Era/units/mages/inferno8.cfg:21
+#: ./The_Wesnoth_Forum_Faction_Era/units/mages/inferno8.cfg:19
 msgid ""
 "Inferno8s are very mysterious beings. Their bodies are made of pure fire, making them hard to kill. It is said that Inferno8s are the leaders of the Cult of Fire: a forgotten religion which unites all creatures known for their fire magicks, like the Sur.nhms.\n"
 "\n"
@@ -143,7 +143,7 @@ msgid "wesfreak"
 msgstr ""
 
 #. [unit_type]: id=wesfreak, race=undead
-#: ./The_Wesnoth_Forum_Faction_Era/units/mages/wesfreak.cfg:25
+#: ./The_Wesnoth_Forum_Faction_Era/units/mages/wesfreak.cfg:23
 msgid ""
 "A spirit that strives for balance that crossed over to this world by unknown means, wesfreak is a soul trapped under a dark adept's robe. Some say that the magic this spirit possesses comes from the robe it wears, others say that the spirit itself is magical. One philosopher once speculated that the soul is in fact a dead dark adept, that could not escape it's robe because of remnants of power from the adept's soul-binding spells. Wesfreak kills without remorse those who call him dirty laundry...\n"
 "\n"
@@ -171,7 +171,7 @@ msgid "Has a sword. Leads others into battle. Whoop."
 msgstr ""
 
 #. [attack]: type=blade
-#: ./The_Wesnoth_Forum_Faction_Era/units/ranged/TheBladeRoden.cfg:25 ./The_Wesnoth_Forum_Faction_Era/units/ranged/Captain_Wrathbow.cfg:248 ./The_Wesnoth_Forum_Faction_Era/units/melee/elvish_sovereign.cfg:38 ./The_Wesnoth_Forum_Faction_Era/units/melee/Aura.cfg:34 ./The_Wesnoth_Forum_Faction_Era/units/melee/artisticdude.cfg:25
+#: ./The_Wesnoth_Forum_Faction_Era/units/ranged/Captain_Wrathbow.cfg:248 ./The_Wesnoth_Forum_Faction_Era/units/ranged/TheBladeRoden.cfg:25 ./The_Wesnoth_Forum_Faction_Era/units/melee/elvish_sovereign.cfg:38 ./The_Wesnoth_Forum_Faction_Era/units/melee/Aura.cfg:34 ./The_Wesnoth_Forum_Faction_Era/units/melee/artisticdude.cfg:25
 msgid "sword"
 msgstr ""
 
@@ -236,7 +236,7 @@ msgid "elvish_sovereign"
 msgstr ""
 
 #. [unit_type]: id=elvish_sovereign, race=The_Wesnoth_Forum
-#: ./The_Wesnoth_Forum_Faction_Era/units/melee/elvish_sovereign.cfg:31
+#: ./The_Wesnoth_Forum_Faction_Era/units/melee/elvish_sovereign.cfg:26
 msgid ""
 "That elvish_sovereign's blade,\n"
 "Was made and used to persuade,\n"
@@ -301,9 +301,9 @@ msgstr ""
 msgid "trample"
 msgstr ""
 
-#. [attack]: type=WML
 #. [attack]: type=fire
-#: ./The_Wesnoth_Forum_Faction_Era/units/wml/IPS.cfg:55 ./The_Wesnoth_Forum_Faction_Era/units/mixed/PsychoticKittens.cfg:45
+#. [attack]: type=WML
+#: ./The_Wesnoth_Forum_Faction_Era/units/mixed/PsychoticKittens.cfg:45 ./The_Wesnoth_Forum_Faction_Era/units/wml/IPS.cfg:55
 msgid "missile"
 msgstr ""
 
@@ -313,7 +313,7 @@ msgid "tapik"
 msgstr ""
 
 #. [unit_type]: id=tapik, race=The_Wesnoth_Forum
-#: ./The_Wesnoth_Forum_Faction_Era/units/mixed/tapik.cfg:20
+#: ./The_Wesnoth_Forum_Faction_Era/units/mixed/tapik.cfg:19
 msgid ""
 "Tapik is a small puppy with a big and fairless heart. He has short fragile claws and a small chops with little teeth. His barking is soft. So he had to invent another way how to defend his garden. He is dexterous and fast and uncatchable and these advantages and a moment of surprise he uses in his attack. With a lovely smile and wagging his tail he runs quickly against a victim. An impact of his hard head is the last thing the surprised enemy could feel.\n"
 "His ideal is his uncle Fido, the famous flying dog."
@@ -350,7 +350,7 @@ msgid "While improving only marginally on the power of their bow, the Slayer aba
 msgstr ""
 
 #. [attack]: type=blade
-#: ./The_Wesnoth_Forum_Faction_Era/units/ranged/Lightfighter.cfg:26 ./The_Wesnoth_Forum_Faction_Era/units/ranged/boru.cfg:97
+#: ./The_Wesnoth_Forum_Faction_Era/units/ranged/boru.cfg:97 ./The_Wesnoth_Forum_Faction_Era/units/ranged/Lightfighter.cfg:26
 msgid "glaive"
 msgstr ""
 
@@ -425,7 +425,7 @@ msgid "Hulavuta"
 msgstr ""
 
 #. [unit_type]: id=Hulavuta, race=The_Wesnoth_Forum
-#: ./The_Wesnoth_Forum_Faction_Era/units/scouts/Hulavuta.cfg:22
+#: ./The_Wesnoth_Forum_Faction_Era/units/scouts/Hulavuta.cfg:20
 msgid ""
 "Saurians are very small of frame, and though they are somewhat frail because of this, they are very, very agile. In combat, their size allows them to dart past defenses that would hold any grown man at bay, making them a tricky foe to deal with.\n"
 "\n"
@@ -458,7 +458,7 @@ msgid "Araja"
 msgstr ""
 
 #. [unit_type]: id=Araja, race=The_Wesnoth_Forum
-#: ./The_Wesnoth_Forum_Faction_Era/units/wml/Araja.cfg:21
+#: ./The_Wesnoth_Forum_Faction_Era/units/wml/Araja.cfg:19
 msgid ""
 "Arajas are incorporeal beings which roam the land of Irdya searching for entertainment. In their natural form they are nothing more than ghostly voices known to follow heroes or observe battles. When an Araja decides to fight it appears as a magical symbol, drifting across the ground like a patch of moonlight. When an enemy approaches, a column of energy rises from the circle and lashes out with deadly force. Arajas cannot be truly killed, merely returned to their ghostly state. As such, they have a carefree attitude and are known for chatting amiably or discussing the scenery while the enemy close in.\n"
 "\n"
@@ -476,7 +476,7 @@ msgid "Deusite"
 msgstr ""
 
 #. [unit_type]: id=Deusite, race=The_Wesnoth_Forum
-#: ./The_Wesnoth_Forum_Faction_Era/units/wml/Deusite.cfg:22
+#: ./The_Wesnoth_Forum_Faction_Era/units/wml/Deusite.cfg:20
 msgid ""
 "Though arresting, the way of the Deusite is mysterious. They are much more prone to lurking, some would say stalking, than other creatures. Creatures to the Deusitia are most interesting when they committing lewd acts, so that it can then moan about it afterwards. Some say it returns to them after a thousand years, as the Deusite may only talk to dead people, others say it just bemoans the existence of semihemidemisemiquavers. But none can tell for the psychopathic screel it emits, and because anyone who says they know it is a liar, unless they've been killed to death. \n"
 "\n"
@@ -494,18 +494,18 @@ msgid "IPS"
 msgstr ""
 
 #. [unit_type]: id=IPS, race=The_Wesnoth_Forum
-#: ./The_Wesnoth_Forum_Faction_Era/units/wml/IPS.cfg:24
-msgid "SPECIAL_NOTE^ Silver Magi are well-attuned to their magical natures and are highly resistant to non-physical damage."
-msgstr ""
-
-#. [unit_type]: id=IPS, race=The_Wesnoth_Forum
-#: ./The_Wesnoth_Forum_Faction_Era/units/wml/IPS.cfg:24
+#: ./The_Wesnoth_Forum_Faction_Era/units/wml/IPS.cfg:20
 msgid ""
 "The many paths that a mage can take in study lead to strikingly different ends. Often viewed as sages, or wandering mystics, silver magi act under an agenda which is obscure even to their own colleagues. Though helpful to the magisteriums which often employ them in the field, they remain somewhat aloof.\n"
 "\n"
 "They have, in fact, their own order amongst the ranks of magi, an order which withholds certain secrets from their peers. One of these is an apparent ability to cross great distances, faster than one could possibly travel on foot. Members of the silver order ardently refuse to discuss the workings of this with any of their fellow magi, and on those rare occasions when others have pried into their work, they have abandoned the endeavor, never to speak of it again.\n"
 "\n"
 "Silver magi are often more physically adept than other magi, and their skills are of undeniable use on the battlefield, if one can manage to induce the mage to apply them."
+msgstr ""
+
+#. [unit_type]: id=IPS, race=The_Wesnoth_Forum
+#: ./The_Wesnoth_Forum_Faction_Era/units/wml/IPS.cfg:24
+msgid "SPECIAL_NOTE^ Silver Magi are well-attuned to their magical natures and are highly resistant to non-physical damage."
 msgstr ""
 
 #. [attack]: type=blade

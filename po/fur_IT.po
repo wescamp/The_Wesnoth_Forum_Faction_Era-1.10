@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-02-26 17:25+0100\n"
+"POT-Creation-Date: 2012-05-11 23:16-0400\n"
 "PO-Revision-Date: 2012-02-26 17:25+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -86,8 +86,8 @@ msgid "chill tempest"
 msgstr ""
 
 #. [attack]: type=arcane
-#: The_Wesnoth_Forum_Faction_Era/units/mages/wesfreak.cfg:67
 #: The_Wesnoth_Forum_Faction_Era/units/mages/Qazerowl.cfg:66
+#: The_Wesnoth_Forum_Faction_Era/units/mages/wesfreak.cfg:67
 msgid "shadow wave"
 msgstr ""
 
@@ -207,11 +207,11 @@ msgid "Has a sword. Leads others into battle. Whoop."
 msgstr ""
 
 #. [attack]: type=blade
-#: The_Wesnoth_Forum_Faction_Era/units/ranged/Captain_Wrathbow.cfg:248
-#: The_Wesnoth_Forum_Faction_Era/units/ranged/TheBladeRoden.cfg:25
-#: The_Wesnoth_Forum_Faction_Era/units/melee/elvish_sovereign.cfg:38
 #: The_Wesnoth_Forum_Faction_Era/units/melee/Aura.cfg:34
 #: The_Wesnoth_Forum_Faction_Era/units/melee/artisticdude.cfg:25
+#: The_Wesnoth_Forum_Faction_Era/units/melee/elvish_sovereign.cfg:38
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/Captain_Wrathbow.cfg:248
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/TheBladeRoden.cfg:25
 msgid "sword"
 msgstr ""
 
@@ -375,8 +375,8 @@ msgstr ""
 msgid "trample"
 msgstr ""
 
-#. [attack]: type=fire
 #. [attack]: type=WML
+#. [attack]: type=fire
 #: The_Wesnoth_Forum_Faction_Era/units/mixed/PsychoticKittens.cfg:45
 #: The_Wesnoth_Forum_Faction_Era/units/wml/IPS.cfg:55
 msgid "missile"
@@ -457,8 +457,8 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: The_Wesnoth_Forum_Faction_Era/units/ranged/boru.cfg:97
 #: The_Wesnoth_Forum_Faction_Era/units/ranged/Lightfighter.cfg:26
+#: The_Wesnoth_Forum_Faction_Era/units/ranged/boru.cfg:97
 msgid "glaive"
 msgstr ""
 
